@@ -1,5 +1,3 @@
-
-
 DECLARE
     CURSOR table_cursor IS
         SELECT table_name
