@@ -23,7 +23,7 @@ Perform EDA and forecast future sales.
 DATABASE.sql: This script contains SQL commands to create the necessary database tables and constraints.
 
 ## Data Cleaning and Transformation
-- DATA CLEANING STEP1.sql: This script is the first step in the data cleaning process.
+- [DATA CLEANING STEP1.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20CLEANING%20STEP1.sql): This script is the first step in the data cleaning process.
 - DATA CLEANING STEP 2-7.sql: This script contains subsequent steps (2 to 7) for cleaning and transforming the data.
 - view.sql: This script creates views for easier data access and analysis.
 
