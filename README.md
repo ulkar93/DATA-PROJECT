@@ -30,60 +30,28 @@ DATA CLEANING STEP 2-7.sql: This script contains subsequent steps (2 to 7) for c
 view.sql: This script creates views for easier data access and analysis.
 
 # Exploratory Data Analysis and Sales Forecasting
-EDA&SALES FORECAST.ipynb: This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
+EDA&SALES FORECAST.ipynb : This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
 
 # Database Creation
 To initialize the database, execute the DATABASE.sql script. This script will create the necessary tables and define the constraints required for the project.
 
--- Execute the following command in your SQL environment
-source DATABASE.sql;
-
 # Data Cleaning and Transformation
 Data cleaning and transformation are divided into multiple steps:
-Execute DATA CLEANING STEP1.sql to perform the initial data cleaning.
-Execute DATA CLEANING STEP 2-7.sql to continue with the cleaning and transformation processes.
-Execute view.sql to create views that will be used in the EDA and forecasting stage.
+1. Execute DATA CLEANING STEP1.sql to perform the initial data cleaning.
+2. Execute DATA CLEANING STEP 2-7.sql to continue with the cleaning and transformation processes.
+3. Execute view.sql to create views that will be used in the EDA and forecasting stage.
 
--- Execute the following commands in your SQL environment
-source DATA CLEANING STEP1.sql;
-source DATA CLEANING STEP 2-7.sql;
-source view.sql;
-Exploratory Data Analysis and Sales Forecasting
+# Exploratory Data Analysis and Sales Forecasting
 The EDA&SALES FORECAST.ipynb Jupyter Notebook contains all the necessary code for conducting EDA and forecasting future sales. It includes data visualization, statistical analysis, and predictive modeling.
 
 To run the notebook, you need to have Jupyter installed along with the required Python libraries. You can install the dependencies using the following command:
-
-bash
-Copy code
 pip install -r requirements.txt
+
 Then, launch the Jupyter Notebook:
+EDA&SALES FORECAST.ipynb
 
-bash
-Copy code
-jupyter notebook EDA&SALES FORECAST.ipynb
-Setup Instructions
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/yourusername/data-pipeline-sales-forecast.git
-Navigate to the project directory:
-bash
-Copy code
-cd data-pipeline-sales-forecast
-Set up the database by executing the SQL scripts as described in the previous sections.
-Install the required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
-Launch the Jupyter Notebook for EDA and sales forecasting:
-bash
-Copy code
-jupyter notebook EDA&SALES FORECAST.ipynb
-Usage
+# Usage
 Follow the instructions provided in each section to execute the SQL scripts and Jupyter Notebook. Ensure that your database is correctly set up and that all dependencies are installed.
 
-Contributing
+# Contributing
 Contributions are welcome! Please open an issue to discuss your ideas or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
