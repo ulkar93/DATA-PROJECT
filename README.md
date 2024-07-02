@@ -20,15 +20,15 @@ Perform EDA and forecast future sales.
 
 # File Descriptions
 ## Database Creation
-DATABASE.sql: This script contains SQL commands to create the necessary database tables and constraints.
+[DATABASE.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATABASE.sql): This script contains SQL commands to create the necessary database tables and constraints.
 
 ## Data Cleaning and Transformation
 - [DATA CLEANING STEP1.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20CLEANING%20STEP1.sql): This script is the first step in the data cleaning process.
-- DATA CLEANING STEP 2-7.sql: This script contains subsequent steps (2 to 7) for cleaning and transforming the data.
-- view.sql: This script creates views for easier data access and analysis.
+- [DATA CLEANING STEP 2-7.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20CLEANING%20STEP%202-7.sql): This script contains subsequent steps (2 to 7) for cleaning and transforming the data.
+- [view.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/view.sql): This script creates views for easier data access and analysis.
 
 ## Exploratory Data Analysis and Sales Forecasting
-EDA&SALES FORECAST.ipynb : This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
+[EDA&SALES FORECAST.ipynb](https://github.com/ulkar93/DATA-PROJECT/blob/main/EDA%26SALES%20FORECAST.ipynb) : This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
 
 # Database Creation
 To initialize the database, execute the DATABASE.sql script. This script will create the necessary tables and define the constraints required for the project.
