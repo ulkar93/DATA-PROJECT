@@ -30,6 +30,11 @@ Perform EDA and forecast future sales.
 ## Exploratory Data Analysis and Sales Forecasting
 [EDA&SALES FORECAST.ipynb](https://github.com/ulkar93/DATA-PROJECT/blob/main/EDA%26SALES%20FORECAST.ipynb) : This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
 
+## Sales dashboard visualization
+[Sales dashboard](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION.pbix)
+[Sales dashboard preview file](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION%20preview%20file.pdf)
+
+
 # Database Creation
 To initialize the database, execute the DATABASE.sql script. This script will create the necessary tables and define the constraints required for the project.
 
