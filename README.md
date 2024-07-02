@@ -31,8 +31,8 @@ Perform EDA and forecast future sales.
 [EDA&SALES FORECAST.ipynb](https://github.com/ulkar93/DATA-PROJECT/blob/main/EDA%26SALES%20FORECAST.ipynb) : This Jupyter Notebook contains Python code for performing EDA and sales forecasting using the cleaned data.
 
 ## Sales dashboard visualization
-[Sales dashboard](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION.pbix)
-[Sales dashboard preview file](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION%20preview%20file.pdf)
+[Sales dashboard](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION.pbix) - This Power BI file contains data transform and cleaning steps, data model, dax and data visulization of [DATABASE.sql](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATABASE.sql)
+[Sales dashboard preview file](https://github.com/ulkar93/DATA-PROJECT/blob/main/DATA%20VISUALISATION%20preview%20file.pdf) - This PDF file contains preview for dashboard without any installation software.
 
 
 # Database Creation
